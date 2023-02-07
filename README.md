@@ -1,4 +1,4 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2020/02/header.gif)
+![MasterHead](https://cdn.dribbble.com/users/873891/screenshots/7762266/media/bda8074dd728423095c5be99819d4997.gif)
 <h1 align="center">Hi 👋, I'm Tunir Wabhitkar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
