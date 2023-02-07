@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/873891/screenshots/7762266/media/bda8074dd728423095c5be99819d4997.gif)
+![MasterHead](https://images3.alphacoders.com/114/1149777.jpg)
 <h1 align="center">Hi 👋, I'm Tunir Wabhitkar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
