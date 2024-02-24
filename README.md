@@ -9,17 +9,13 @@
 
 - 🔭 I’m currently working on **portfolio**
 
-- 🌱 I’m currently learning **DSA python**
+- 🌱 I’m currently learning **AWS Solution Architect**
 
-- 👯 I’m looking to collaborate on **Design and frontend**
+- 👯 I’m looking to collaborate on **Projects related to cloud**
 
-- 🤝 I’m looking for help with **any designing and developing project**
-
-- 💬 Ask me about **python**
+- 🤝 I’m looking for help with **your problems and doubt**
 
 - 📫 How to reach me **smokeinjone@gmail.com**
-
-- ⚡ Fun fact **I think tech is going to handle us.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
